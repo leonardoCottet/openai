@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "API_KEY"
 
 
 def conversar(texto):
