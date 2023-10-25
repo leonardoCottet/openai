@@ -1,2 +1,0 @@
-apikey = ""
-#coloque sua apikey
