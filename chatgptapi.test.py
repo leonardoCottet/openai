@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = chatgptapi.apikey
+openai.api_key = "sua_api"
 
 
 def conversar(texto):
