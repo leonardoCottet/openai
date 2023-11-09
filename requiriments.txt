@@ -3,3 +3,4 @@ gTTs
 vosk
 io
 pygame
+os
