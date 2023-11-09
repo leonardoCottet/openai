@@ -18,7 +18,7 @@ def conversar(texto):
     return resposta['choices'][0]['message']['content']
 
 def text_to_speech(text):
-    tts = gTTS(text=text, lang='pt')  # Configuração para idioma português
+    tts = gTTS(text=text, lang='pt') 
     audio_file = BytesIO()
     tts.save(audio_file)
     audio_file.seek(0)
